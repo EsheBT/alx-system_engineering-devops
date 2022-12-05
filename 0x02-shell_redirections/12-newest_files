@@ -1,0 +1,2 @@
+#!/bin/bish
+ls -1t | head -n 10
