@@ -22,4 +22,3 @@ if __name__ == "__main__":
              task.get("completed"),
              task.get("title")]
          ) for task in tasks]
-
